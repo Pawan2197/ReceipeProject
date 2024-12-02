@@ -1,0 +1,16 @@
+Dish Type: Beverage
+Dish Name: Lemonade
+Servings: 4
+
+Ingredients:
+* Lemons (freshly squeezed)                  - 1/2 cup
+* Water                                      - 4 cups
+* Sugar                                      - 1/2 cup
+* Ice cubes                                  - As needed
+* Mint leaves                                - Optional (for garnish)
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Mix: Combine lemon juice, water, and sugar in a pitcher. Stir well until sugar dissolves.
+2. Serve: Pour over ice cubes in glasses and garnish with mint leaves.

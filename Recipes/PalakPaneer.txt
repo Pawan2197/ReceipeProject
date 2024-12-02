@@ -1,0 +1,28 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Palak Paneer
+
+    Servings: 4
+
+    Ingredients:
+
+    * Spinach                                 - 2 cups, blanched and pureed
+    * Paneer                                  - 200 grams, cubed
+    * Onion                                   - 1, chopped
+    * Garlic                                  - 1 teaspoon, minced
+    * Spices (garam masala, cumin)            - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute onion and garlic until soft.
+    2. Add spinach puree and spices; cook for 5 minutes.
+    3. Add paneer and salt, simmer for 10 minutes.
+    4. Serve with rice or naan.
+    

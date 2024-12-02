@@ -1,0 +1,16 @@
+Dish Type: Beverage
+Dish Name: Watermelon juice
+Servings: 2
+
+Ingredients:
+* Watermelon (seedless, diced)               - 2 cups
+* Lemon juice                                - 1 tablespoon
+* Sugar                                      - 1 tablespoon (optional)
+* Mint leaves                                - Optional (for garnish)
+* Ice cubes                                  - As needed
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Blend: Blend watermelon, lemon juice, and sugar until smooth.
+2. Serve: Pour over ice cubes and garnish with mint leaves if desired.

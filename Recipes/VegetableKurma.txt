@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Vegetable Kurma
+
+    Servings: 4
+
+    Ingredients:
+
+    * Mixed vegetables                        - 1 cup
+    * Coconut milk                            - 1/2 cup
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (garam masala, turmeric)         - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute onion, add tomato and spices, cook until soft.
+    2. Add vegetables and coconut milk, simmer for 10 minutes.
+    3. Serve with rice or chapati.
+    

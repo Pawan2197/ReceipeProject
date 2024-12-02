@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Dum Aloo
+
+    Servings: 4
+
+    Ingredients:
+
+    * Baby potatoes                           - 10, boiled and peeled
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 2, pureed
+    * Spices (turmeric, garam masala)         - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Fry boiled potatoes until golden.
+    2. Saute onion, add tomato puree and spices, cook until thick.
+    3. Add potatoes and cook for 10 minutes.
+    4. Serve with rice or naan.
+    

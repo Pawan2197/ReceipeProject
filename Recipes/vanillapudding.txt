@@ -1,0 +1,15 @@
+Dish Type: Dessert
+Dish Name: Vanilla Pudding
+Servings: 4
+
+Ingredients:
+* Milk                                        - 2 cups
+* Sugar                                       - 1/2 cup
+* Cornstarch                                  - 3 tablespoons
+* Vanilla extract                             - 1 teaspoon
+
+Cooking Time: 10 minutes
+
+Procedure:
+1. Heat: In a saucepan, whisk together milk, sugar, and cornstarch. Cook over medium heat until thickened.
+2. Serve: Remove from heat, stir in vanilla extract, and pour into bowls. Chill before serving.

@@ -1,0 +1,28 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Kadai Paneer
+
+    Servings: 4
+
+    Ingredients:
+
+    * Paneer                                  - 200 grams, cubed
+    * Bell peppers                            - 1 cup, diced
+    * Onion                                   - 1 large, chopped
+    * Tomato                                  - 2, pureed
+    * Kadai masala                            - 2 teaspoons
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 25 minutes
+
+    Procedure:
+
+    1. Saute onion, bell peppers, and kadai masala.
+    2. Add tomato puree and cook until oil separates.
+    3. Add paneer and salt, cook for 5 minutes.
+    4. Serve with naan or roti.
+    

@@ -1,0 +1,28 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Malai Kofta
+
+    Servings: 4
+
+    Ingredients:
+
+    * Paneer                                  - 100 grams, grated
+    * Potato                                  - 1 large, boiled and mashed
+    * Cream                                   - 1/2 cup
+    * Tomato                                  - 2, pureed
+    * Spices (garam masala, chili powder)     - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - For frying
+
+    Cooking Time: 35 minutes
+
+    Procedure:
+
+    1. Form koftas with paneer and potato, then deep fry.
+    2. Prepare curry with tomato puree, cream, and spices.
+    3. Add koftas and simmer for 5 minutes.
+    4. Serve with naan or rice.
+    

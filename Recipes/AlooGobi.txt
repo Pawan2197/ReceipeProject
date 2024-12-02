@@ -1,0 +1,25 @@
+Veg
+
+Dish type: Main Course
+
+Dish name: Aloo Gobi
+
+Servings: 4
+
+Ingredients:
+
+* Potato                                  - 2 medium, diced
+* Cauliflower                             - 1 cup, florets
+* Onion                                   - 1, chopped
+* Spices (turmeric, cumin)                - 1 teaspoon each
+* Salt                                    - To taste
+* Oil                                     - 2 tablespoons
+
+Cooking Time: 25 minutes
+
+Procedure:
+
+1. Saute onion and spices until golden.
+2. Add potatoes and cauliflower, cover and cook until soft.
+3. Season with salt, stir occasionally until vegetables are tender.
+4. Serve hot with chapati or rice.

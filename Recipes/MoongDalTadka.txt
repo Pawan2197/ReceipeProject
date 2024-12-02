@@ -1,0 +1,26 @@
+	
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Moong Dal Tadka
+
+    Servings: 4
+
+    Ingredients:
+
+    * Moong dal (split green gram)            - 1 cup
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (cumin, turmeric)                - 1 teaspoon each
+    * Salt                                    - To taste
+    * Ghee                                    - 2 tablespoons
+
+    Cooking Time: 20 minutes
+
+    Procedure:
+
+    1. Boil dal with turmeric and salt.
+    2. Prepare tadka with cumin, onion, and tomato, pour over dal.
+    3. Serve with rice or chapati.
+    

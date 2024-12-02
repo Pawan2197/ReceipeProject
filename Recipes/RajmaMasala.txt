@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Rajma Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Red kidney beans (rajma)                - 1 cup, soaked overnight
+    * Onion                                   - 1 large, chopped
+    * Tomato                                  - 2, pureed
+    * Spices (rajma masala, chili powder)     - 1 tablespoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 40 minutes
+
+    Procedure:
+
+    1. Pressure cook kidney beans until soft.
+    2. Saute onions, add tomato puree and spices; cook until thick.
+    3. Add kidney beans, simmer for 15 minutes.
+    4. Serve with rice or roti.
+    

@@ -1,0 +1,26 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Paneer Bhurji
+
+    Servings: 4
+
+    Ingredients:
+
+    * Paneer                                  - 200 grams, crumbled
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (turmeric, chili powder)         - 1/2 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 1 tablespoon
+
+    Cooking Time: 15 minutes
+
+    Procedure:
+
+    1. Saute onion, add tomatoes and spices.
+    2. Add crumbled paneer, cook for 5 minutes.
+    3. Serve hot with roti.
+    

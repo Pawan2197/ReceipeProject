@@ -1,0 +1,28 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Matar Paneer
+
+    Servings: 4
+
+    Ingredients:
+
+    * Paneer                                  - 200 grams, cubed
+    * Green peas                              - 1 cup
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 2, pureed
+    * Spices (garam masala, chili powder)     - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute onions until golden brown, add tomato puree and spices.
+    2. Add green peas, cook until peas are tender.
+    3. Add paneer and salt, simmer for 10 minutes.
+    4. Serve hot with naan or rice.
+    

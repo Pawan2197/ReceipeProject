@@ -1,0 +1,16 @@
+Dish Type: Beverage
+Dish Name: Mojito (Non-Alcoholic)
+Servings: 1
+
+Ingredients:
+* Lime juice                                 - 2 tablespoons
+* Sugar                                      - 1 teaspoon
+* Mint leaves                                - 8-10
+* Soda water                                 - 1 cup
+* Ice cubes                                  - As needed
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Muddle: In a glass, muddle mint leaves, lime juice, and sugar.
+2. Serve: Add ice cubes, pour soda water, and mix gently.

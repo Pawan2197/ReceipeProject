@@ -1,0 +1,24 @@
+Veg
+
+Dish Type: Snacks
+
+Dish Name: Cheese Balls
+
+Servings: 10
+
+Ingredients:
+
+Cheese (mozzarella, cheddar)         - 1 cup, shredded
+Breadcrumbs                          - 1 cup
+Egg                                  - 1, beaten
+Flour                                - 1/4 cup
+Salt                                 - 1 teaspoon
+Oil                                  - For frying
+
+Cooking Time: 20 minutes
+
+Procedure:
+
+Shape cheese balls: Shape shredded cheese into small balls.
+Coat cheese balls: Coat cheese balls in flour, then egg, and finally breadcrumbs.
+Fry: Fry the coated cheese balls in hot oil until golden brown and crispy.

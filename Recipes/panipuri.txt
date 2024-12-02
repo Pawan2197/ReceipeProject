@@ -1,0 +1,23 @@
+Veg
+
+Dish type : Snacks
+
+Dish name : Pani Puri
+
+Servings : 10
+
+Ingredients :
+
+* Puri shells          - 10-15
+* Tamarind water       - 1 cup
+* Mint chutney         - 1/2 cup
+* Chaat masala         - 1 teaspoon
+
+Cooking Time : 15 minutes
+
+Procedure : 
+Prepare ingredients: Purchase pre-made puri shells. Prepare tamarind water and mint chutney according to your preferred recipes.
+Fill puri shells: Carefully open a puri shell and fill it with a mixture of tamarind water, mint chutney, and chaat masala.
+You can adjust the amount of each ingredient to your taste preference.
+Serve immediately: Serve the filled puri shells immediately, as they are best enjoyed fresh.
+

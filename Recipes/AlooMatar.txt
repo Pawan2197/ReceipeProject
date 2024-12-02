@@ -1,0 +1,26 @@
+Veg
+
+Dish type: Main Course
+
+Dish name: Aloo Matar
+
+Servings: 4			
+
+Ingredients:
+
+* Potatoes                                - 2 large, diced
+* Green peas                              - 1 cup
+* Onion                                   - 1, chopped
+* Tomato                                  - 1, chopped
+* Spices (cumin, turmeric, garam masala)  - 1 teaspoon each
+* Salt                                    - To taste
+* Oil                                     - 2 tablespoons
+
+Cooking Time: 25 minutes
+
+Procedure:
+
+1. Saute cumin seeds and onion until golden.
+2. Add potatoes, green peas, and spices; cook for 15 minutes.
+3. Add tomatoes and cook until potatoes are soft.
+4. Serve with chapati or rice.

@@ -1,0 +1,15 @@
+Dish Type: Dessert
+Dish Name: Cheesecake
+Servings: 6
+
+Ingredients:
+* Cream cheese                                - 1 cup
+* Sugar                                       - 1/2 cup
+* Whipped cream                               - 1 cup
+* Graham cracker crust                        - 1 (store-bought)
+
+Cooking Time: 10 minutes
+
+Procedure:
+1. Mix: Blend cream cheese, sugar, and whipped cream until smooth.
+2. Assemble: Spread mixture over crust and refrigerate for 4 hours before serving.

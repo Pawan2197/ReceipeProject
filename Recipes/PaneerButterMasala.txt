@@ -1,0 +1,30 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Paneer Butter Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Paneer                                  - 200 grams, cubed
+    * Tomato                                  - 3 large, pureed
+    * Onion                                   - 1 large, finely chopped
+    * Butter                                  - 2 tablespoons
+    * Cream                                   - 2 tablespoons
+    * Spices (garam masala, chili powder)     - 1 teaspoon each
+    * Salt                                    - To taste
+    * Ginger-garlic paste                     - 1 teaspoon
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute onion in butter until golden brown.
+    2. Add ginger-garlic paste and cook until fragrant.
+    3. Pour in tomato puree and spices; cook until oil separates.
+    4. Add paneer, salt, and cream, stirring gently.
+    5. Cook for 5 minutes, then serve hot with naan or rice.
+    

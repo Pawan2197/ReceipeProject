@@ -1,0 +1,17 @@
+Dish Type: Beverage
+Dish Name: Hot Chocolate
+Servings: 2
+
+Ingredients:
+* Milk                                       - 2 cups
+* Cocoa powder                               - 2 tablespoons
+* Sugar                                      - 2 tablespoons
+* Dark chocolate (grated)                    - 2 tablespoons
+* Whipped cream                              - Optional (for topping)
+
+Cooking Time: 10 minutes
+
+Procedure:
+1. Heat: Warm milk in a saucepan over medium heat.
+2. Mix: Whisk in cocoa powder, sugar, and grated chocolate until fully dissolved.
+3. Serve: Pour into mugs and top with whipped cream if desired.

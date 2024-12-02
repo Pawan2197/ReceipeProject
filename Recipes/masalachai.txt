@@ -1,0 +1,17 @@
+Dish Type: Beverage
+Dish Name: Masala Chai
+Servings: 2
+
+Ingredients:
+* Water                                      - 1 cup
+* Milk                                       - 1 cup
+* Tea leaves                                 - 2 teaspoons
+* Sugar                                      - 2 teaspoons
+* Spices (ginger, cardamom, cloves, cinnamon) - As needed
+
+Cooking Time: 10 minutes
+
+Procedure:
+1. Boil: Heat water with spices. Add tea leaves and boil for 2 minutes.
+2. Add milk: Pour in milk and sugar. Simmer for 2-3 minutes.
+3. Serve: Strain into cups and serve hot.

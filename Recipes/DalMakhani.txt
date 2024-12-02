@@ -1,0 +1,26 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Dal Makhani
+
+    Servings: 4
+
+    Ingredients:
+
+    * Black lentils (urad dal)                - 1 cup
+    * Kidney beans                            - 1/2 cup
+    * Cream                                   - 1/2 cup
+    * Spices (garam masala, chili powder)     - 1 teaspoon each
+    * Salt                                    - To taste
+    * Butter                                  - 2 tablespoons
+
+    Cooking Time: 40 minutes
+
+    Procedure:
+
+    1. Boil dal and kidney beans until soft.
+    2. Add spices, cream, and butter, cook for 20 minutes.
+    3. Serve hot with naan.
+    

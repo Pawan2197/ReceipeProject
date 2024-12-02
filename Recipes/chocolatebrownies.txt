@@ -1,0 +1,19 @@
+Dish Type: Dessert
+Dish Name: Chocolate Brownies
+Servings: 8
+
+Ingredients:
+* Butter                                      - 1/2 cup
+* Sugar                                       - 1 cup
+* Cocoa powder                                - 1/3 cup
+* All-purpose flour                           - 1/2 cup
+* Eggs                                        - 2
+* Vanilla extract                             - 1 teaspoon
+* Salt                                        - 1/4 teaspoon
+* Chocolate chips                             - 1/4 cup (optional)
+
+Cooking Time: 30 minutes
+
+Procedure:
+1. Mix: Melt butter and mix with sugar, cocoa powder, and salt. Add eggs and vanilla, stirring until smooth. Fold in flour and chocolate chips.
+2. Bake: Pour into a greased baking pan and bake at 350°F (175°C) for 20-25 minutes. Cool and slice into squares.

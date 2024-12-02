@@ -1,0 +1,25 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Bhindi Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Okra (bhindi)                           - 250 grams, chopped
+    * Onion                                   - 1, sliced
+    * Spices (turmeric, cumin)                - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 25 minutes
+
+    Procedure:
+
+    1. Saute spices and onion until golden.
+    2. Add okra, cook until tender.
+    3. Season with salt and serve with chapati.
+    

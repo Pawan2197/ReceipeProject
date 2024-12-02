@@ -1,0 +1,15 @@
+Dish Type: Beverage
+Dish Name: Cold Coffee
+Servings: 1
+
+Ingredients:
+* Coffee (brewed, chilled)                   - 1 cup
+* Milk                                       - 1/2 cup
+* Sugar                                      - 1 teaspoon (optional)
+* Ice cubes                                  - 1/2 cup
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Combine: In a glass, mix chilled coffee with milk and sugar.
+2. Serve: Add ice cubes and enjoy.

@@ -1,0 +1,15 @@
+Dish Type: Beverage
+Dish Name: Orange Juice
+Servings: 2
+
+Ingredients:
+* Oranges (freshly squeezed)                 - 2 cups
+* Water                                      - 1/2 cup (optional)
+* Sugar                                      - 1 tablespoon (optional)
+* Ice cubes                                  - As needed
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Juice: Squeeze fresh oranges to extract juice. Strain if necessary.
+2. Serve: Mix with water (if preferred), add sugar, and serve over ice.

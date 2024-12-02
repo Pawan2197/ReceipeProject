@@ -1,0 +1,25 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Veg Pulao
+
+    Servings: 4
+
+    Ingredients:
+
+    * Basmati rice                            - 1 cup
+    * Mixed vegetables (carrot, peas, beans)  - 1 cup
+    * Spices (cumin, bay leaf)                - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute spices, add vegetables, and cook for 5 minutes.
+    2. Add rice, water, and salt, then cook covered until rice is done.
+    3. Serve hot with raita.
+    

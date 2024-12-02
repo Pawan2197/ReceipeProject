@@ -1,0 +1,25 @@
+Veg
+
+Dish type: Main Course
+
+Dish name: Baingan Bharta
+
+Servings: 4
+
+Ingredients:
+
+* Eggplant                                - 1 large
+* Onion                                   - 1, chopped
+* Tomato                                  - 2, chopped
+* Spices (chili powder, garam masala)     - 1 teaspoon each
+* Salt                                    - To taste
+* Oil                                     - 2 tablespoons
+
+Cooking Time: 30 minutes
+
+Procedure:
+
+1. Roast eggplant until soft, peel, and mash.
+2. Saute onions and spices, add tomatoes and cook until soft.
+3. Add mashed eggplant, cook for 10 minutes.
+4. Serve hot with roti.

@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Gobi Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Cauliflower                             - 1 medium, cut into florets
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (turmeric, cumin, garam masala)  - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 25 minutes
+
+    Procedure:
+
+    1. Saute onion and spices until golden.
+    2. Add cauliflower and cook until tender.
+    3. Add tomatoes, cook until flavors meld.
+    4. Serve with chapati or rice.
+    

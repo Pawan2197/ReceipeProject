@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Stuffed Capsicum
+
+    Servings: 4
+
+    Ingredients:
+
+    * Bell peppers                            - 4, tops cut off and seeds removed
+    * Potato                                  - 2 large, boiled and mashed
+    * Onion                                   - 1, chopped
+    * Spices (cumin, garam masala)            - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Mix mashed potatoes, onion, and spices.
+    2. Stuff bell peppers with the potato mixture.
+    3. Cook stuffed peppers in a covered pan for 15 minutes.
+    4. Serve with rice or roti.
+    

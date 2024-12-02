@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Chana Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Chickpeas                               - 1 cup, soaked overnight
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 2, pureed
+    * Chana masala                            - 1 tablespoon
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 35 minutes
+
+    Procedure:
+
+    1. Boil chickpeas until soft.
+    2. Saute onion, add tomato puree and chana masala.
+    3. Add chickpeas and simmer for 15 minutes.
+    4. Serve with rice or bhature.
+    

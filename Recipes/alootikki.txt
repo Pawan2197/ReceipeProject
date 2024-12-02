@@ -1,0 +1,28 @@
+Veg
+
+Dish type : Snacks
+
+Dish name : Aloo Tikki
+
+
+Servings : 10
+
+
+Ingredients : 
+
+* Potatoes                                  -  2 large, boiled and mashed 
+* Spices (cumin, coriander, turmeric)       -  1 teaspoon each
+* Salt                                      -  1 teaspoon
+* Breadcrumbs                               -  1/4 cup
+* Oil                                       -  For frying
+
+Cooking Time :  30 minutes
+
+
+Procedure : 
+	
+
+1. Mix ingredients: Combine mashed potatoes, spices, salt, and breadcrumbs in a bowl. Mix well.
+2. Shape patties: Shape the mixture into small patties.
+3. Fry: Fry the patties in hot oil until golden brown and crispy.
+

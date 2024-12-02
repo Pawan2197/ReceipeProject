@@ -1,0 +1,29 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Vegetable Biryani
+
+    Servings: 4
+
+    Ingredients:
+
+    * Basmati rice                            - 1 cup
+    * Mixed vegetables (carrot, peas, beans)  - 1 cup, chopped
+    * Onion                                   - 1, sliced
+    * Yogurt                                  - 1/2 cup
+    * Spices (biryani masala, turmeric)       - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 40 minutes
+
+    Procedure:
+
+    1. Cook rice until 80% done and set aside.
+    2. Saute onions until golden, then add vegetables and spices.
+    3. Add yogurt and cook until vegetables are tender.
+    4. Layer rice and vegetable mixture; cook covered for 10 minutes.
+    5. Serve hot with raita.
+    

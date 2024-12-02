@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Chole Masala
+
+    Servings: 4
+
+    Ingredients:
+
+    * Chickpeas                               - 1 cup, soaked overnight
+    * Onion                                   - 1 large, chopped
+    * Tomato                                  - 2, pureed
+    * Spices (chole masala, chili powder)     - 1 tablespoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 35 minutes
+
+    Procedure:
+
+    1. Pressure cook chickpeas until soft.
+    2. Saute onion until golden, add tomato puree and spices.
+    3. Add cooked chickpeas and simmer for 15 minutes.
+    4. Garnish with coriander leaves and serve with rice or bhature.
+    

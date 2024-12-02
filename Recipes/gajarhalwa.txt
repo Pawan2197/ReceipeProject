@@ -1,0 +1,17 @@
+Dish Type: Dessert
+Dish Name: Gajar Halwa
+Servings: 4
+
+Ingredients:
+* Carrots (grated)                            - 2 cups
+* Milk                                        - 1 cup
+* Sugar                                       - 1/2 cup
+* Ghee                                        - 2 tablespoons
+* Cardamom powder                             - 1/4 teaspoon
+* Nuts (optional)                             - For garnish
+
+Cooking Time: 30 minutes
+
+Procedure:
+1. Cook: In a pan, cook carrots with milk until softened. Add sugar and ghee, stirring well.
+2. Garnish: Sprinkle cardamom powder and nuts before serving.

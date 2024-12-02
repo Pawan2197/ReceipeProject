@@ -1,0 +1,25 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Veg Fried Rice
+
+    Servings: 4
+
+    Ingredients:
+
+    * Cooked rice                             - 2 cups
+    * Mixed vegetables (carrot, peas, beans)  - 1 cup
+    * Soy sauce                               - 1 tablespoon
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 15 minutes
+
+    Procedure:
+
+    1. Saute vegetables in oil on high heat.
+    2. Add rice, soy sauce, and salt; stir-fry until well mixed.
+    3. Serve hot.
+    

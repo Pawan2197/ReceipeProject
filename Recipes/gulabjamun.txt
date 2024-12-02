@@ -1,0 +1,20 @@
+Dish Type: Dessert
+Dish Name: Gulab Jamun
+Servings: 12 pieces
+
+Ingredients:
+* Milk powder                                 - 1 cup
+* All-purpose flour                           - 1/4 cup
+* Baking soda                                 - 1/4 teaspoon
+* Ghee                                        - 1 tablespoon
+* Milk                                        - As needed
+* Sugar                                       - 1 cup
+* Water                                       - 1 cup
+* Cardamom                                    - 2 pods
+
+Cooking Time: 45 minutes
+
+Procedure:
+1. Dough: Mix milk powder, flour, baking soda, and ghee. Add milk to form a dough.
+2. Syrup: Boil sugar, water, and cardamom to make syrup.
+3. Fry: Shape dough into balls and fry until golden. Soak in syrup and serve.

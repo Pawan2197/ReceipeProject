@@ -1,0 +1,15 @@
+Dish Type: Beverage
+Dish Name: Strawberry Milkshake
+Servings: 2
+
+Ingredients:
+* Strawberries (fresh or frozen)             - 1 cup
+* Milk                                       - 1 cup
+* Sugar                                      - 2 tablespoons
+* Ice cream (vanilla)                        - 1 scoop
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Blend: Combine all ingredients in a blender and blend until smooth.
+2. Serve: Pour into glasses and enjoy.

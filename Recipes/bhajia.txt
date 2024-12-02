@@ -1,0 +1,25 @@
+Veg
+
+Dish type : Snacks
+
+Dish name : Bhajia
+
+Servings : 10
+
+Ingredients :
+
+* Onion                                 -  1 large, thinly sliced
+* Gram flour                            -  1 cup
+* Water                                 -  1/4 cup
+* Spices (cumin, coriander, turmeric)   -  1 teaspoon each
+* Salt                                  -  1 teaspoon
+* Oil                                   -  For frying
+
+Cooking Time :
+25 minutes
+
+Procedure :
+
+Make the batter: Follow the same procedure as for pakoras.
+Coat onion: Dip sliced onion into the batter.
+Fry: Fry the coated onion until golden brown and crispy.

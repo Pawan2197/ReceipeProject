@@ -1,0 +1,16 @@
+Dish Type: Dessert
+Dish Name: Apple Pie
+Servings: 6
+
+Ingredients:
+* Apples (sliced)                             - 3 cups
+* Sugar                                       - 1/2 cup
+* Cinnamon                                    - 1 teaspoon
+* Pie crust                                   - 1 (store-bought or homemade)
+* Butter                                      - 1 tablespoon
+
+Cooking Time: 40 minutes
+
+Procedure:
+1. Prepare: Place apple slices in a pie crust, sprinkle with sugar and cinnamon, and dot with butter.
+2. Bake: Cover with a top crust, seal edges, and bake at 375°F (190°C) for 30-35 minutes until golden brown.

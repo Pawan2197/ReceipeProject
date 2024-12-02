@@ -1,0 +1,16 @@
+Dish Type: Beverage
+Dish Name: Mango Smoothie
+Servings: 2
+
+Ingredients:
+* Mango pulp (fresh or canned)               - 1 cup
+* Yogurt                                     - 1/2 cup
+* Milk                                       - 1/2 cup
+* Honey                                      - 1 tablespoon (optional)
+* Ice cubes                                  - 1/2 cup
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Blend: Combine all ingredients in a blender and blend until smooth.
+2. Serve: Pour into glasses and enjoy chilled.

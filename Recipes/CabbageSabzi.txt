@@ -1,0 +1,25 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Cabbage Sabzi
+
+    Servings: 4
+
+    Ingredients:
+
+    * Cabbage                                 - 2 cups, shredded
+    * Onion                                   - 1, chopped
+    * Spices (turmeric, cumin)                - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 1 tablespoon
+
+    Cooking Time: 15 minutes
+
+    Procedure:
+
+    1. Saute cumin and onion until golden.
+    2. Add cabbage and spices, cook until soft.
+    3. Serve with roti or rice.
+    

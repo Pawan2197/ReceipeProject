@@ -1,0 +1,15 @@
+Dish Type: Dessert
+Dish Name: Mango Mousse
+Servings: 4
+
+Ingredients:
+* Mango puree                                 - 1 cup
+* Whipped cream                               - 1 cup
+* Gelatin                                     - 1 teaspoon
+* Sugar                                       - 2 tablespoons
+
+Cooking Time: 10 minutes
+
+Procedure:
+1. Mix: Dissolve gelatin in warm water. Blend with mango puree and sugar.
+2. Fold: Gently fold in whipped cream and refrigerate until set.

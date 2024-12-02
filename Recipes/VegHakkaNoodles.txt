@@ -1,0 +1,26 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Veg Hakka Noodles
+
+    Servings: 4
+
+    Ingredients:
+
+    * Noodles                                 - 200 grams, boiled
+    * Mixed vegetables (carrot, bell pepper)  - 1 cup, julienned
+    * Soy sauce                               - 1 tablespoon
+    * Green onion                             - 1, chopped
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 20 minutes
+
+    Procedure:
+
+    1. Saute vegetables in oil on high heat.
+    2. Add noodles, soy sauce, and salt; stir-fry for 2 minutes.
+    3. Garnish with green onion and serve hot.
+    

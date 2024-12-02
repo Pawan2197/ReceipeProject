@@ -1,0 +1,16 @@
+Dish Type: Dessert
+Dish Name: Rice Kheer
+Servings: 4
+
+Ingredients:
+* Rice                                        - 1/4 cup
+* Milk                                        - 4 cups
+* Sugar                                       - 1/2 cup
+* Cardamom powder                             - 1/4 teaspoon
+* Nuts and raisins                            - For garnish
+
+Cooking Time: 45 minutes
+
+Procedure:
+1. Cook: Simmer rice and milk in a pot until thickened. Add sugar and cardamom powder.
+2. Serve: Garnish with nuts and raisins and serve chilled or warm.

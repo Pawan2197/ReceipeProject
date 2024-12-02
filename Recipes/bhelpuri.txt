@@ -1,0 +1,27 @@
+Veg
+
+Dish Type: Snacks
+Dish Name: Bhel Puri
+Servings: 10
+
+Ingredients:
+
+* Puffed rice                                   - 1 cup
+* Sev                                           - 1/4 cup
+* Chopped vegetables (onion, tomato, cucumber)  - 1 cup
+* Tamarind chutney                              - 1/4 cup
+* Mint chutney                                  - 1/4 cup
+* Chaat masala                                  - 1 teaspoon
+
+Cooking Time: 10 minutes
+
+Procedure:
+
+1. Combine ingredients: In a large bowl, combine puffed rice, sev, chopped vegetables, tamarind chutney, mint chutney, and chaat masala.
+2. Toss and serve: Toss the ingredients together until they are well mixed. Serve immediately for the best flavor and texture.
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+Veg
+
+Dish Type: Snacks
+Dish Name: Pakoras
+Servings: 10
+
+Ingredients:
+
+* Gram flour                                           - 1 cup
+* Water                                                - 1/4 cup
+* Spices (cumin, coriander, turmeric)                  - 1 teaspoon each
+* Salt                                                 - 1 teaspoon
+* Vegetables (onion, potato, cauliflower, spinach)     - 1 cup, chopped
+* Oil
+
+Cooking Time: 20 minutes
+
+Procedure:
+
+1. Make the batter: Combine gram flour, water, spices, and salt in a bowl. Mix until smooth.
+2. Coat vegetables: Dip chopped vegetables into the batter, ensuring they are evenly coated.
+3. Fry: Heat oil in a deep fryer or large pot. Fry the coated vegetables until golden brown and crispy.

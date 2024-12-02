@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Pumpkin Curry
+
+    Servings: 4
+
+    Ingredients:
+
+    * Pumpkin                                 - 2 cups, diced
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (cumin, turmeric, garam masala)  - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 20 minutes
+
+    Procedure:
+
+    1. Saute onion and spices until golden.
+    2. Add pumpkin, cook until tender.
+    3. Add tomatoes, cook until flavors meld.
+    4. Serve with rice or chapati.
+    

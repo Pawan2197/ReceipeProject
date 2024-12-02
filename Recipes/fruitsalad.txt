@@ -1,0 +1,15 @@
+Dish Type: Dessert
+Dish Name: Fruit Salad
+Servings: 4
+
+Ingredients:
+* Mixed fruits (chopped)                      - 2 cups
+* Honey                                       - 2 tablespoons
+* Lemon juice                                 - 1 tablespoon
+* Mint leaves                                 - Optional (for garnish)
+
+Cooking Time: 5 minutes
+
+Procedure:
+1. Toss: Combine chopped fruits, honey, and lemon juice in a bowl.
+2. Serve: Mix gently, garnish with mint leaves, and serve fresh.

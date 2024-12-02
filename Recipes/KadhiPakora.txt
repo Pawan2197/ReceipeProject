@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Kadhi Pakora
+
+    Servings: 4
+
+    Ingredients:
+
+    * Gram flour                              - 1 cup
+    * Yogurt                                  - 1 cup
+    * Onion                                   - 1, sliced
+    * Spices (turmeric, cumin)                - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - For frying
+
+    Cooking Time: 40 minutes
+
+    Procedure:
+
+    1. Make batter with gram flour and spices for pakoras and deep fry.
+    2. Mix yogurt and gram flour for kadhi, simmer until thick.
+    3. Add pakoras and cook for 10 minutes.
+    4. Serve with rice.
+    

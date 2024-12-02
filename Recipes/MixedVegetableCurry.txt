@@ -1,0 +1,27 @@
+
+    Veg
+
+    Dish type: Main Course
+
+    Dish name: Mixed Vegetable Curry
+
+    Servings: 4
+
+    Ingredients:
+
+    * Mixed vegetables (carrot, beans, peas)  - 2 cups
+    * Onion                                   - 1, chopped
+    * Tomato                                  - 1, chopped
+    * Spices (turmeric, garam masala)         - 1 teaspoon each
+    * Salt                                    - To taste
+    * Oil                                     - 2 tablespoons
+
+    Cooking Time: 30 minutes
+
+    Procedure:
+
+    1. Saute onions and spices until golden brown.
+    2. Add vegetables, cook until tender.
+    3. Add tomatoes, cook until soft and flavors combine.
+    4. Serve hot with rice or roti.
+    
